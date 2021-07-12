@@ -9,7 +9,11 @@ tags: [books, test]
 ---
 # Power BI là gì?
 
-Power BI là một công cụ giúp trực quan hóa dữ liệu và là giải pháp phân tích kinh doanh giúp bạn kết nối và tập hợp dữ liệu từ nhiều nguồn khác nhau thành một bảng Dashboard có thể tương tác trực tiếp và các báo cáo phân tích. 
+Micorsoft Power BI là một công cụ cho phép người dùng kết nối, trực quan hóa dữ liệu từ nhiều nguồn khác nhau. Với mục đích tổng hợp, phân tích và thiết lập các báo cáo tự động thông qua việc tổ chức dữ liệu bằng các báo cáo Dashboard hoặc report thông thường.
+
+Bên cạnh đó, Power BI là một công cụ đắc lực giúp cho các cấp quản lý, cũng như người làm phân tích dữ liệu (Business Intelligence, Data Analyst) đưa ra các nhận định insight từ dữ liệu quá khứ của doanh nghiệp.
+
+Hiện tại Power BI có tích hợp Python và R – là 2 ngôn ngữ lập trình cho phép người dùng có thể ứng dụng các kiến thức thống kê, mô hình dữ liệu để đưa ra dự đoán trong tương lai.
 
 # Tại sao người dùng lựa chọn Power BI?
 
