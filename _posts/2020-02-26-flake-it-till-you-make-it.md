@@ -27,8 +27,12 @@ Doanh nghiệp sử dụng mô hình Power BI để dự đoán. Các dự đoá
 
 # Các thành phần chính của Power BI
 
-- **Power BI Desktop** (để kết hợp và chuyển đổi dữ liệu)
-- **Power BI Desktop** (một công cụ phát triển đồng hành) 
-- **Power BI Mobile** (dành cho điện thoại Android, iOS, Windows)
-- **Power BI Pivot** (để mô hình hóa dữ liệu dạng bảng trong bộ nhớ)
-- **Power View** (để xem trực quan hóa dữ liệu)
+Power BI bao gồm các elements – phần tử hoạt động cùng nhau, có ba phần cơ bản sau:
+
+- Một ứng dụng cho máy tính để bàn Windows có tên **Power BI Desktop**.
+- Một dịch vụ SaaS (Phần mềm dưới dạng Dịch vụ) trực tuyến được gọi là dịch vụ **Power BI service**.
+- Ứng dụng cho các thiết bị di động, **Power BI mobile apps** trên thiết bị Windows, iOS và Android.
+
+Ba ứng dụng chính — **Power BI Desktop**, **Power BI service** & **Power BI mobile**.
+
+Được thiết kế giúp bạn tạo, chia sẻ và sử dụng thông tin về hoạt động kinh doanh. Tùy vào vai trò và vị trí công việc của mỗi người, sẽ sử dụng ứng dụng khác nhau.
